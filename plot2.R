@@ -26,6 +26,3 @@ with(data,
 ## Export to PNG
 dev.copy(png, file = "plot2.png", width = 480, height = 480)
 dev.off()
-head(data$Date)
-
-     
